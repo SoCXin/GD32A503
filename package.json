@@ -1,0 +1,15 @@
+{
+    "name":"GD32E503",
+    "Core":"Cortex M33",
+    "Vendor":"GigaDevice",
+    "description":"Cortex M33 GD32E503 MCU",
+    "url":"https://github.com/SoCXin/GD32E503",
+    "keywords": [
+        "ADC","DAC","SDIO","CAN","I2C","RTC","SPI",
+        "180MHz",
+        "LQFP48","LQFP100","LQFP64","LQFP144",
+        "3.6V","1.8V"
+    ],
+    "homepage": "http://www.SoC.xin",
+    "version":"1.0.0"
+}
