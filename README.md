@@ -1,7 +1,7 @@
 ﻿# [GD32A503](https://doc.soc.xin/GD32A503)
 
 * [GigaDevice](https://www.gigadevice.com/): [Cortex-M33](https://github.com/SoCXin/Cortex)
-* [L1R1](https://github.com/SoCXin/Level): 100 MHz
+* [L2R3](https://github.com/SoCXin/Level): 100 MHz
 
 ## [简介](https://github.com/SoCXin/GD32A503/wiki)
 
@@ -17,6 +17,8 @@ GD32A503的Flash/RAM支持ECC校验，数据通信支持CRC校验，还配备了
 
 * 100 MHz Cortex-M33
 * 48KB SRAM + 384KB FLASH + 4KB EEPROM
+* 3x USART、2x I2C、2x SPI、1x I2S，2x CAN FD
+* 12-bit ADC 1Msps
 
 ## [资源收录](https://github.com/SoCXin)
 
