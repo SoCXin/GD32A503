@@ -1,0 +1,38 @@
+{
+    "type":"MCU",
+    "name":"GD32A503",
+    "title": "GigaDevice GD32A503 MCU",
+    "description":"GigaDevice Autocar MCU",
+    "Core": {
+        "CoreNum": 1,
+        "Core":"Cortex-M33",
+        "Fmax":100,
+        "DMIPS": 125,
+        "CoreMark": 285
+    },
+    "manufacturer": {
+        "vendor":"GigaDevice",
+        "homepage":"https://www.gigadevice.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SoCXin/GD32A503.git"
+    },
+    "version":"1.0.0",
+    "series":["GD32A503"],
+    "package":["LQFP100","LQFP64","LQFP48","QFN32"],
+    "peripheral": ["ADC","UART","SPI","IIC"],
+    "temp": [-40,85],
+    "volt": [1.8,3.6],
+    "ESD": {
+        "HBM": 4000,
+        "CDM": 500
+    },
+    "keywords": [
+        "Cortex-M33",
+        "GigaDevice","40nm",
+        "ADC","I2C","RTC","SPI","UART",
+        "3.6V","1.8V"
+    ]
+}
+
